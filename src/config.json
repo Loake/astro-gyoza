@@ -1,7 +1,7 @@
 {
   "site": {
     "url": "https://gyoza.lxchapu.com",
-    "title": "Gyoza",
+    "title": "梅狸猫的博客",
     "description": "这是一个使用 Astro 和 React 开发的博客主题。",
     "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
     "lang": "zh-CN",
@@ -9,31 +9,31 @@
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "lxchapu",
-    "twitterId": "@lxchapu",
-    "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
+    "name": "梅狸猫",
+    "twitterId": "",
+    "avatar": "https://s2.loli.net/2024/07/22/PXReriTA94WD3Kj.jpg"
   },
   "hero": {
-    "name": "Gyoza",
-    "bio": "A static blog template build with Astro and React.",
-    "description": "Clean, Cute, Fast.",
+    "name": "梅狸猫",
+    "bio": "这是一个分享技术、生活、思考的博客。",
+    "description": "你终于来啦！",
     "socials": [
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/lxchapu/astro-gyoza",
+        "url": "https://github.com/Loake",
         "color": "rgb(24, 23, 23)"
       },
       {
-        "name": "X",
-        "icon": "icon-x",
+        "name": "WeChat",
+        "icon": "ri-wechat-fill",
         "url": "https://twitter.com/lxchapu",
         "color": "rgb(36, 46, 54)"
       },
       {
         "name": "Email",
         "icon": "icon-mail",
-        "url": "mailto:lxchapu@outlook.com",
+        "url": "2091557997@qq.com",
         "color": "rgb(212, 70, 56)"
       }
     ],
@@ -118,7 +118,7 @@
       "websiteId": ""
     },
     "microsoftClarity": {
-        "projectId": ""
+      "projectId": ""
     }
   }
 }
