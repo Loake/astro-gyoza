@@ -19,6 +19,7 @@ import rehypeKatex from 'rehype-katex'
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://astronaut.github.io',
   site: site.url,
   integrations: [tailwind(), react(), sitemap()],
   markdown: {
