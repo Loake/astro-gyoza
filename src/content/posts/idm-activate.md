@@ -10,6 +10,4 @@ summary: 这篇文章介绍了如何在文章中嵌入视频和代码。
 
 # 我是一级标题
 
-![未激活弹窗](/images/inactive.png)
-
 <Image src="/images/inactive.png" alt="未激活弹窗" />
