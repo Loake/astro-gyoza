@@ -10,8 +10,6 @@ summary: 这篇文章介绍了如何在文章中嵌入视频和代码。
 
 # 我是一级标题
 
-[![img](https://s2.loli.net/2024/04/04/6z3Y5u8X9Q4l1w7.png)](https://s2.loli.net/2024/04/04/6z3Y5u8X9Q4l1w7.png)
+![未激活弹窗](/images/inactive.png)
 
-## 我是一级标题
-
-![](https://s2.loli.net/2024/04/04/6z3Y5u8X9Q4l1w7.png)
+<Image src="/images/inactive.png" alt="未激活弹窗" />
