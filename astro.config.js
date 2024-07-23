@@ -21,11 +21,11 @@ import mdx from '@astrojs/mdx'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://astronaut.github.io',
+  site: 'https://www.lkcoding.asia',
   site: site.url,
   integrations: [tailwind(), react(), sitemap(), mdx()],
   markdown: {
-    syntaxHighlight: false,
+    syntaxHighlight: true,
     smartypants: false,
     remarkPlugins: [remarkMath, remarkDirective, remarkEmbed, remarkSpoiler, remarkReadingTime],
     rehypePlugins: [
