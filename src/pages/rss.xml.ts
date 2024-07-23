@@ -1,5 +1,6 @@
 import type { APIContext } from 'astro'
 import rss from '@astrojs/rss'
+import SpeedInsights from '@vercel/speed-insights/astro'
 import { site } from '@/config.json'
 import { getSortedPosts } from '@/utils/content'
 
