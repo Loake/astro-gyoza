@@ -19,7 +19,6 @@ import rehypeKatex from 'rehype-katex'
 
 import mdx from '@astrojs/mdx'
 
-// https://astro.build/config
 export default defineConfig({
   site: 'https://astronaut.github.io',
   site: site.url,
@@ -42,8 +41,5 @@ export default defineConfig({
       footnoteLabel: '参考',
       footnoteBackLabel: '返回正文',
     },
-  },
-  experimental: {
-    disableCache: true,
   },
 })
