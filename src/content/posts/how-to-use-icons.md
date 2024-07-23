@@ -48,6 +48,7 @@ public/fonts/iconfont.woff2
 src/styles/iconfont.css
 ```
 
+> 注意，这将会替换掉项目中使用的所有图标，所以请确保你知道自己在做什么。
+
 > 此文档由 **@柃夏chapu** 编写，转载请注明出处。
 > 单击 👉 [@柃夏chapu](https://www.lxchapu.com/) 访问ta的主页
-> 注意，这将会替换掉项目中使用的所有图标，所以请确保你知道自己在做什么。
