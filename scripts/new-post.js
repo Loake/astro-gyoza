@@ -4,7 +4,7 @@ import path from 'path'
 import { isFileNameSafe } from './utils.js'
 
 function getPostFullPath(fileName) {
-  return path.join('./src/content/posts', `${fileName}.md`)
+  return path.join('../src/content/posts', `${fileName}.md`)
 }
 
 const fileName = await input({
