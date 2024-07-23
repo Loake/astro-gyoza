@@ -43,7 +43,6 @@ export default defineConfig({
       footnoteBackLabel: '返回正文',
     },
   },
-  // 禁用 Astro 缓存
   experimental: {
     disableCache: true,
   },
