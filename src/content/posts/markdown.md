@@ -8,6 +8,11 @@ tags: [Markdown]
 
 下面是在 Astro 中编写 Markdown 内容时，可以使用的一些基本 Markdown 语法示例。
 
+## 声明
+
+> 此文档由 **@柃夏chapu** 编写，转载请注明出处。
+> 单击 👉 [@柃夏chapu](https://www.lxchapu.com/) 访问ta的主页
+
 ## 标题
 
 你应该避免在 Markdown 正文中重复创建文章标题，因为文章标题会根据 `frontmatter` 中 `title` 自动生成。

@@ -16,7 +16,7 @@
   "hero": {
     "name": "梅狸猫",
     "bio": "这是一个分享技术、生活、思考的博客。",
-    "description": "你终于来啦！",
+    "description": "这儿有各种各样奇奇怪怪的东西……",
     "socials": [
       {
         "name": "Github",
@@ -106,7 +106,7 @@
     "serverURL": "https://walineforblog-75x7ry1od-loakes-projects.vercel.app/"
   },
   "sponsor": {
-    "wechat": "https://s2.loli.net/2024/07/22/IVpKkAYasL8cHTu.jpg"
+    "wechat": "https://s2.loli.net/2024/07/25/WpEHtQy25cgGD9x.jpg"
   },
   "analytics": {
     "enable": false,
