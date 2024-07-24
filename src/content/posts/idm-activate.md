@@ -3,8 +3,12 @@ title: 最好用的下载器 - IDM 激活
 date: 2024-07-25
 summary: 这是一篇关于 IDM 激活的文章。
 category: 激活
-tags: [Markdown]
+tags: [IDM, 激活]
 ---
+
+# 激活IDM
+
+## 由于版权问题，IDM在国内是受到限制的，需要激活才能使用。本文将介绍如何激活IDM，以及如何使用IDM下载文件。
 
 <style>
     .red {
