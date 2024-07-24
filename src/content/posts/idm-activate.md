@@ -1,6 +1,6 @@
 ---
 title: 最好用的下载器 - IDM 激活
-date: 2024-07-25
+date: 2024-07-24T21:38:00.000Z
 summary: 这是一篇关于 IDM 激活的文章。
 category: 激活
 tags: [IDM, 激活]
