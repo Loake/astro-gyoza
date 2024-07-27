@@ -1,7 +1,7 @@
 ---
 title: 免费手机投屏电脑神器 - scrcpy
 summary: scrcpy是一个开源的 Android 设备屏幕远程控制工具，可以在电脑上显示和控制 Android 设备的屏幕。它支持通过 USB 连接或通过 Wi-Fi 连接进行远程控制。
-date: 2024-07-28T19:42:48.504Z
+date: 2024-07-27T19:42:48.504Z
 tags: [投屏, scrcpy]
 comments: false
 draft: false
