@@ -468,7 +468,7 @@ scrcpy --prefer-text --turn-screen-off --stay-awake
 
     init({
       el: '#waline',
-      serverURL: 'https://your-domain.vercel.app',
+      serverURL: 'https://walineforblog-75x7ry1od-loakes-projects.vercel.app/',
     });
 
   </script>
