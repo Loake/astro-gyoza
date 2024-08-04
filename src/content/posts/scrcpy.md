@@ -3,7 +3,7 @@ title: 免费手机投屏电脑神器 - scrcpy
 summary: scrcpy是一个开源的 Android 设备屏幕远程控制工具，可以在电脑上显示和控制 Android 设备的屏幕。它支持通过 USB 连接或通过 Wi-Fi 连接进行远程控制。
 date: 2024-07-27T19:42:48.504Z
 tags: [投屏, scrcpy]
-comments: false
+comments: true
 draft: false
 ---
 
@@ -451,3 +451,25 @@ scrcpy --prefer-text --turn-screen-off --stay-awake
 
 [scrcpy官方中文文档](https://github.com/Genymobile/scrcpy/wiki/README.zh-Hans)
 [scrcpy官方文档](https://github.com/Genymobile/scrcpy/blob/master/README.md)
+
+<head>
+  <!-- ... -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+  />
+  <!-- ... -->
+</head>
+<body>
+  <!-- ... -->
+  <div id="waline"></div>
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+    init({
+      el: '#waline',
+      serverURL: 'https://your-domain.vercel.app',
+    });
+
+  </script>
+</body>
