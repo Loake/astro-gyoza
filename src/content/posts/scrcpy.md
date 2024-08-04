@@ -451,25 +451,3 @@ scrcpy --prefer-text --turn-screen-off --stay-awake
 
 [scrcpy官方中文文档](https://github.com/Genymobile/scrcpy/wiki/README.zh-Hans)
 [scrcpy官方文档](https://github.com/Genymobile/scrcpy/blob/master/README.md)
-
-<head>
-  <!-- ... -->
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/@waline/client@v3/dist/waline.css"
-  />
-  <!-- ... -->
-</head>
-<body>
-  <!-- ... -->
-  <div id="waline"></div>
-  <script type="module">
-    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-
-    init({
-      el: '#waline',
-      serverURL: 'https://walineforblog-75x7ry1od-loakes-projects.vercel.app/',
-    });
-
-  </script>
-</body>
