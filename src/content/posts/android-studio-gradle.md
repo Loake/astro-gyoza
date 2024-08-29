@@ -6,6 +6,8 @@ category: 教程
 tags: [Android Studio, 教程]
 ---
 
+> 本文中所用到的方法均为个人经验和来自于互联网的资料，如有错误，请指正。
+
 # 前言
 
 在Android Studio中，Gradle是一个重要的构建工具，用于编译和打包Android应用程序。有时候，Gradle可能会出现同步失败的情况，这可能是由于网络问题、Gradle版本不兼容或者配置错误等原因导致的。
