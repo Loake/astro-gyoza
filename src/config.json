@@ -98,9 +98,9 @@
     "startTime": "2024-07-22T00:00:00Z"
   },
   "docSearch": {
-    "appId": "",
-    "apiKey": "",
-    "indexName": ""
+    "appId": "NLFYBZD9AP",
+    "apiKey": "28299b6876a5dcdc87925f1b005092b1",
+    "indexName": "lkcoding"
   },
   "waline": {
     "serverURL": "https://walineforblog-75x7ry1od-loakes-projects.vercel.app/"
