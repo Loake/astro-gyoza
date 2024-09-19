@@ -3,7 +3,7 @@ title: 在Linux中固定IP地址
 date: 2024-09-18T08:04:38.922Z
 tags: [教程, Linux]
 comments: true
-draft: true
+draft: false
 ---
 
 > 注意，本文所使用的Linux系统为 _CentOS 7 64位_ 版本
