@@ -2,7 +2,7 @@
 title: 在Linux中固定IP地址
 date: 2024-09-18T08:04:38.922Z
 tags: [教程, Linux]
-comments: true
+comments: false
 draft: false
 ---
 
